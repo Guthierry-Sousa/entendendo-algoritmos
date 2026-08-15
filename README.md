@@ -20,10 +20,3 @@ Este repositório contém:
 * **Capítulo 6**: Pesquisa em Largura (grafos, implementação de grafos e BFS)
 * **Capítulo 7**: Algoritmo de Dijkstra (implementação, utilização) 
 * **Capítulo 8**: Algoritmos Gulosos 
-
-## Referência
-
-**Livro:** Entendendo Algoritmos
-**Autor:** Aditya Bhargava
-
-> Este repositório possui implementações próprias desenvolvidas para fins de estudo.
